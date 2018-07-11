@@ -1,0 +1,9 @@
+﻿  Source.cpp
+c:\users\kirill\source\repos\project23\project23\source.cpp(374): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+c:\users\kirill\source\repos\project23\project23\source.cpp(383): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\kirill\source\repos\project23\project23\source.cpp(424): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\kirill\source\repos\project23\project23\source.cpp(425): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\kirill\source\repos\project23\project23\source.cpp(428): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\kirill\source\repos\project23\project23\source.cpp(432): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\kirill\source\repos\project23\project23\source.cpp(440): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Project23.vcxproj -> C:\Users\Kirill\source\repos\Project23\Debug\Project23.exe
